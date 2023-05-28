@@ -1,11 +1,13 @@
 # PSET 1 - Disciplina Banco de Dados 1
 
+## Neste Repositorio estão presentes as entregas do primeiro PSET dessa disciplina. 
+***
 Aluno: Emanuel Joaquim Pereira Ton
 
 Turma: CC1MC
 
 Prof: Abrantes Araújo Silva Filho
-
+***
 ## Conteúdos
 Diretorio pset1 
 - Arquivo power arquitect - cc1mc_202307394_postgresql.architect
